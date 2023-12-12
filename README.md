@@ -8,7 +8,7 @@
       <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
     </a>
     
-🔭 I’m currently looking for a job 🤓 in tech new in the field 👶🏽
+🔭 I’m currently looking for a job 🤓 in Tech. new in the field 👶🏽.
     
 🧠 I’m currently Working on a website.
 
