@@ -3,6 +3,8 @@
 <h3 align="center">A passionate robot engineer and Artist from Colombia living in Berlin </h3>
 <p align="left"> <img src="https://img.shields.io/badge/Artist-Robot%20engineer-purple"
         " alt="drago" /></a> </p>
+<p align="left"> <img src="https://img.shields.io/badge/python-blue"
+        " alt="python" /></a> </p>
 
   <a target="_blank" align="center">
       <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
