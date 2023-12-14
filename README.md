@@ -2,19 +2,10 @@
     Drago</a></h1>
 <h3 align="center">A passionate robot engineer and Artist from Colombia living in Berlin </h3>
 
- <a href="#">
+<a>
   <img src="https://img.shields.io/badge/Artist-Robot%20engineer-purple" alt="drago">
-</a>
-
-<a href="#">
   <img src="https://img.shields.io/badge/python-blue" alt="python">
-</a>
-
-<a href="#">
   <img src="https://img.shields.io/badge/css-yellow" alt="css">
-</a>
-
-<a href="#">
   <img src="https://img.shields.io/badge/html-red" alt="html">
 </a>
 
