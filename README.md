@@ -4,8 +4,8 @@
 
   <a <img src="https://img.shields.io/badge/Artist-Robot%20engineer-purple" alt="drago" /></a>
   <a <img src="https://img.shields.io/badge/python-blue" alt="python" /></a>
-  <a> <img src="https://img.shields.io/badge/css-yellow" alt="css" /></a>
-  <a> <img src="https://img.shields.io/badge/html-red" alt="html" /></a> 
+  <a <img src="https://img.shields.io/badge/css-yellow" alt="css" /></a>
+  <a <img src="https://img.shields.io/badge/html-red" alt="html" /></a> 
 <p align="center">
     <a target="_blank" align="center">
       <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
