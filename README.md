@@ -12,8 +12,7 @@
 
 <a href="https://www.linkedin.com/in/drago-herrera-cova-14a25124a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/dravvt_tech/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.dravvt.com/" target="_blank"><img src="https://img.shields.io/badge/My%20Website-black
-" alt="web"></a>
+<a href="https://www.dravvt.com/" target="_blank"><img src="https://img.shields.io/badge/My%20Website-black" alt="web"></a>
 
 
  <a target="_blank" align="center">
