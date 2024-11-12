@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm <a href="https://github.com/dragon90o/" target="_blank">Drago</a></h1>
-<h3 align="center">Passionate Robot Engineer and Artist from Colombia, currently crafting in Berlin 🎨🤖</h3>
+<h3 align="center">Passionate robotics engineering student and artist from Colombia, currently crafting in Berlin. 🎨🤖</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/drago-herrera-cova-14a25124a/" target="_blank">
