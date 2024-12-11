@@ -19,7 +19,7 @@
 
 🧠 exploring the endless possibilities of technology.
 
-🌱 Engaged in a thrilling project utilizing React and cutting-edge front-end technologies.
+🌱 At the moment, working on a project using Qt and C++.
 
 📝 Sharing insights and experiences through captivating articles on [my website](https://dravvt.com).
 
