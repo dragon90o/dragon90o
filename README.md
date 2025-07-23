@@ -76,11 +76,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dragon90o&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragon90o&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragon90o&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 ---
@@ -98,10 +97,8 @@
 ---
 
 ## 📝 Latest Blog Posts
- 
-<!-- BLOG-POST-LIST:START -->
-[mastering technical drawings a complete guide to projection types and design principles](https://dravvt.com/blog/mastering-technical-drawings-a-complete-guide-to-projection-types-and-design-principles) 
 
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
