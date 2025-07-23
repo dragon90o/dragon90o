@@ -1,4 +1,10 @@
-<h1 align="center">Hello there! 👋 I'm <a href="https://github.com/dragon90o/" target="_blank">Dravvt</a></h1>
+<h1 align="center">Hello there! 👋 I'm <a href="https://github.com/dragon90o/" target="_blank">
+██████╗ ██████╗  █████╗ ██╗   ██╗██╗   ██╗████████╗
+██╔══██╗██╔══██╗██╔══██╗██║   ██║██║   ██║╚══██╔══╝
+██║  ██║██████╔╝███████║██║   ██║██║   ██║   ██║   
+██║  ██║██╔══██╗██╔══██║╚██╗ ██╔╝╚██╗ ██╔╝   ██║   
+██████╔╝██║  ██║██║  ██║ ╚████╔╝  ╚████╔╝    ██║   
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝    ╚═══╝     ╚═╝   </a></h1>
 <h3 align="center">a robotics engineering student and artist. 🎨🤖</h3>
 
 <p align="center">
