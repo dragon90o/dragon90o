@@ -100,7 +100,7 @@
 
 Feel free to reach out for collaborations, robotics discussions, or just to say hi! 👋
 
-<img src="https://raw.githubusercontent.com/dragon90o/dragon90o/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 </div>
 
