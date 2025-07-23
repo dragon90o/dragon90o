@@ -99,7 +99,9 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-📖 Check out my latest article: <a href="https://dravvt.com/blog/mastering-technical-drawings-a-complete-guide-to-projection-types-and-design-principles" target="_blank"><strong>Mastering Technical Drawings</strong></a>
+
+📖 **Latest Article:** [Mastering Technical Drawings - A Complete Guide](https://dravvt.com/blog/mastering-technical-drawings-a-complete-guide-to-projection-types-and-design-principles)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
