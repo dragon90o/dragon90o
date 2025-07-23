@@ -40,6 +40,8 @@
 📝 **Sharing insights** through articles on [my website](https://dravvt.com)  
 🤖 **Passionate** about robotics and AI innovation  
 🎨 **Creative** at heart, blending art with technology  
+🧮 **Expert** in LSTM neural networks and ensemble modeling  
+📊 **Specialized** in time series prediction and financial ML  
 
 <br clear="right"/>
 
@@ -53,6 +55,13 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Frameworks & Tools
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
@@ -79,7 +88,10 @@
 ## 🔥 Current Projects & Interests
 
 - 🤖 **Robotics Control Systems** - Advanced Qt/C++ applications
-- 🧠 **AI & Machine Learning** - Neural networks and automation
+- 🧠 **LSTM Neural Networks** - Time series forecasting and sequence modeling
+- 🎯 **Ensemble Models** - Random Forest, XGBoost, Gradient Boosting optimization
+- 📈 **Financial ML** - Trading algorithms with deep learning integration
+- 🔄 **Model Ensemble Voting** - Multi-timeframe prediction systems
 - 🎨 **Creative Technology** - Merging art with engineering
 - 📖 **Technical Writing** - Sharing knowledge through [dravvt.com](https://dravvt.com)
 
@@ -99,8 +111,6 @@
 > *"Technology is best when it brings people together."* - Matt Mullenweg
 
 Feel free to reach out for collaborations, robotics discussions, or just to say hi! 👋
-
-
 
 </div>
 
