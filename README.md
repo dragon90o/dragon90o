@@ -101,7 +101,7 @@
  
 <!-- BLOG-POST-LIST:START -->
 [mastering technical drawings a complete guide to projection types and design principles](https://dravvt.com/blog/mastering-technical-drawings-a-complete-guide-to-projection-types-and-design-principles) 
-https://dravvt.com/blog/mastering-technical-drawings-a-complete-guide-to-projection-types-and-design-principles
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
