@@ -19,11 +19,22 @@ Currently looking for a **working student (Werkstudent) or remote role** in soft
 
 ---
 
+## Open source: Read-Aloud Book Reader
+
+**Free software, MIT-licensed, and open to contributions.** It turns a PDF into a local web page that reads itself aloud with Piper, highlighting the paragraph being spoken. The interesting part is everything a PDF does not hand you cleanly: it keeps prose and code apart, preserves code indentation, rasterizes diagrams that are vector strokes rather than images, and copes with margin notes and two-column papers.
+
+Anyone is free to use it, fork it and build on it. The code, the comments and the documentation are all in English, with an architecture walkthrough and a contributing guide to start from. The most useful thing you can send is a PDF it mangles.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-4ade80?style=flat-square&labelColor=111111)](https://github.com/dragon90o/personal_lib_project/blob/main/LICENSE)
+[![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-4ade80?style=flat-square&logo=github&logoColor=4ade80&labelColor=111111)](https://github.com/dragon90o/personal_lib_project/blob/main/CONTRIBUTING.md)
+[![Source](https://img.shields.io/badge/Source-personal__lib__project-4ade80?style=flat-square&logo=github&logoColor=4ade80&labelColor=111111)](https://github.com/dragon90o/personal_lib_project)
+
+---
+
 ## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Read-Aloud Book Reader](https://github.com/dragon90o/personal_lib_project) | Turns PDFs into local web pages that read themselves aloud in English and German, highlighting the current paragraph. Keeps code indentation and rasterizes vector diagrams. | Python, pdfplumber, Piper TTS |
 | [Job Search Automation](https://github.com/dragon90o/job-searcher) | Collects job offers from four job APIs, removes duplicates and writes them to an Obsidian checklist. Offers already checked off are not added again. | Python, REST APIs |
 | [Live Renko Monitor](https://github.com/dragon90o/Renko_monitor) | Real-time Renko charts for forex trading. | Python |
 | [Bode Diagram Viewer](https://github.com/dragon90o/bodediagram_final) | Desktop app that plots Bode diagrams from transfer functions and exports them as PDF. | C++, Qt |
